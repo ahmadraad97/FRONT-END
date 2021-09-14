@@ -1,0 +1,94 @@
+
+.imname{
+    margin-top: 50%;
+
+}
+.icop{
+    text-align: center;
+    padding-bottom:10px;
+    margin-top: 10px;
+}
+.nav1{
+    background-color:black;
+    
+}
+.nav1 * a{
+ color:white;
+}
+.nav2{
+    background-color:lightpink;
+    
+   
+}
+.nav2 * a{
+    color:black;}
+
+.sld2{
+    background-color:lightcoral;
+}
+
+.nav3{
+    background-color:lightgreen;
+   
+}
+
+.nav3 * a{
+    color:black;
+}
+
+.sld3{
+    background-color:mediumseagreen;
+}
+
+.cardSld3{
+    background-color:lightgreen;
+}
+
+ .nav4{
+    background-color:royalblue;
+
+ }
+ .nav4 * a{
+    color:black;}
+    .sld4{
+        background-color: blue;
+    }
+
+.cardSld4{
+    
+    background-color:royalblue;
+}
+
+
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:50%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
